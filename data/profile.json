@@ -1,0 +1,103 @@
+{
+  "name": "Chad Wilson",
+  "title": "Information Technology Manager",
+  "company": "Bloomin' Brands, Inc.",
+  "location": "St. Petersburg, Florida",
+  "email": "chad@chadtwilson.com",
+  "linkedin": "https://www.linkedin.com/in/chadtwilson/",
+  "website": "https://www.chadtwilson.com",
+  "hero": {
+    "headline": "IT Leader. Problem Solver. Innovator.",
+    "subheadline": "25+ years driving technology strategy across defense, healthcare, cybersecurity, and hospitality"
+  },
+  "about": {
+    "summary": "With over 25 years of experience in the IT industry, I have developed a diverse skill set that includes network administration, help desk support, system implementation, and project management. Throughout my career, I have worked with various industries, including healthcare, hospitality, retail, and defense, and honed my ability to adapt quickly to new technologies and requirements.",
+    "highlights": [
+      "My strengths lie in providing exceptional customer service, troubleshooting complex technical issues, and managing cross-functional teams to deliver successful outcomes.",
+      "I am proficient in various technologies and have experience with a range of hardware and software systems. Additionally, I am well-versed in cybersecurity best practices, disaster recovery planning, and cloud-based solutions.",
+      "In my most recent role as a Franchise Technology Manager, I have developed a deep understanding of the unique challenges faced by the food and beverage industry, including the need for rapid response times, seamless integration of front-end and back-end systems, and a focus on the customer experience.",
+      "Overall, I am a results-oriented professional committed to delivering exceptional customer service, leveraging the latest technologies and best practices to drive positive outcomes for organizations and their customers."
+    ]
+  },
+  "experience": [
+    {
+      "title": "Information Technology Manager",
+      "company": "Bloomin' Brands, Inc.",
+      "type": "Full-time",
+      "startDate": "Aug 2022",
+      "endDate": "Present",
+      "duration": "3 yrs 7 mos",
+      "location": "Tampa, Florida, United States",
+      "workType": "Hybrid",
+      "description": "Overseeing all technology systems and processes at franchise restaurants across the Bloomin' Brands portfolio, including Outback Steakhouse, Carrabba's Italian Grill, Bonefish Grill, and Fleming's Prime Steakhouse. Researching and recommending new technologies to improve operations and guest experience. Collaborating cross-departmentally to integrate solutions that enhance marketing, communication, and efficiency. Implementing systems that have improved operations and increased revenue.",
+      "logo": "bloomin"
+    },
+    {
+      "title": "Sr Systems Administrator & Technical Consultant",
+      "company": "Independent Contractor",
+      "type": "Contract",
+      "startDate": "Feb 2014",
+      "endDate": "Aug 2022",
+      "duration": "8 yrs 7 mos",
+      "location": "South East Region, US",
+      "workType": "Remote",
+      "description": "Provided cutting-edge technology services including endpoint management, cybersecurity auditing, penetration testing, disaster recovery as a service, and ransomware protection. Managed Microsoft 365 Azure administration, network access control systems, and implemented IDS/IPS security procedures. Conducted HIPAA and PCI auditing, directed enterprise patch management, and utilized Metasploit for penetration testing. Implemented NIST cybersecurity hardening measures across client environments.",
+      "logo": "contractor"
+    },
+    {
+      "title": "Mid-Atlantic Region Navigation Support Specialist",
+      "company": "Stryker",
+      "type": "Full-time",
+      "startDate": "Mar 2013",
+      "endDate": "Jul 2013",
+      "duration": "5 mos",
+      "location": "Washington D.C. Metro Area",
+      "workType": "Hybrid",
+      "description": "Provided critical training and support to surgeons and operating room staff on Stryker's innovative ENT navigation system. Led setup, trialing, and execution of navigation systems. Presented detailed metrics to management on case reviews and provided recommendations for product and methodology improvements.",
+      "logo": "stryker"
+    },
+    {
+      "title": "Tech II - Corporate",
+      "company": "Stryker",
+      "type": "Full-time",
+      "startDate": "Jan 2011",
+      "endDate": "Mar 2013",
+      "duration": "2 yrs 3 mos",
+      "location": "Greater Kalamazoo Area",
+      "workType": "On-site",
+      "description": "Deskside support for corporate and commercial sales teams utilizing Windows, SharePoint, SCCM, MacOS, AirWatch, and ServiceNow. Managed Active Directory, SCCM deployments, and print server infrastructure. Communicated with C-level executives about technology-driven solutions and continuous improvement initiatives.",
+      "logo": "stryker"
+    },
+    {
+      "title": "Global Sales Consultant & Manufacturers Representative",
+      "company": "Success Manufacturing, Inc.",
+      "type": "Full-time",
+      "startDate": "Oct 2003",
+      "endDate": "Jan 2011",
+      "duration": "7 yrs 4 mos",
+      "location": "Hong Kong, New York, Orlando",
+      "workType": "On-site",
+      "description": "Consistently exceeded monthly sales goals by at least 10% for multiple toy and technology manufacturers. Secured orders from major international retailers, managed trade shows and conferences, and prepared sales contracts. Demonstrated proficiency in Windows Server administration including IIS, VPN, and Active Directory services.",
+      "logo": "success"
+    },
+    {
+      "title": "Network Analyst / Lead Tech",
+      "company": "Lockheed Martin Information Technology",
+      "type": "Full-time",
+      "startDate": "1999",
+      "endDate": "2003",
+      "duration": "4 yrs",
+      "location": "Orlando, New York, Beaverton Oregon",
+      "workType": "On-site",
+      "description": "Resolved technological incidents and requests for the Lockheed Martin Department of Defense program. Provided technical leadership to high-profile clients including Simon & Schuster, Nike, U.S. Chamber of Commerce, and Intersil Corp.",
+      "logo": "lockheed"
+    }
+  ],
+  "skills": {
+    "infrastructure": ["Network Administration", "Azure Cloud", "Active Directory", "DNS/DHCP", "Windows Server", "Linux", "VMware"],
+    "security": ["Penetration Testing", "Cybersecurity Auditing", "IDS/IPS", "NIST Framework", "Metasploit", "HIPAA Compliance", "PCI Compliance"],
+    "management": ["Project Management", "Cross-Functional Leadership", "Vendor Management", "IT Strategy", "Budget Management"],
+    "platforms": ["Microsoft 365", "ServiceNow", "ConnectWise", "SharePoint", "SCCM", "AirWatch"]
+  },
+  "lastUpdated": "2026-02-10"
+}
